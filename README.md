@@ -35,6 +35,5 @@ Run the app on your preferred emulator or physical device using Flutter's CLI co
 ```bash
 flutter run
 ```
-flutter run
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
