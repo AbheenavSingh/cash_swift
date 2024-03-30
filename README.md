@@ -33,6 +33,7 @@ Update the Firebase configuration in your Flutter app by replacing the google-se
 Run the app on your preferred emulator or physical device using Flutter's CLI commands:
 
 ```bash
+flutter run
 ```
 flutter run
 Contributing
